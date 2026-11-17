@@ -1,6 +1,6 @@
 {
   "dealership": "Braby Motors Ltd",
-  "generated_at": "2026-11-17T06:44:58",
+  "generated_at": "2026-11-17T06:58:17",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -355,13 +355,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP GRAND WAGONEER Limited Altitude",
+      "name": "2026 JEEP GRAND WAGONEERLimited Altitude 4x4",
       "vin": "1C4SJVBPXTS202205",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/ad3ed086c259.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "price": 95680.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -382,121 +384,114 @@
       "condition": "used"
     },
     {
-      "name": "2026 RAM 1500 Sport",
-      "vin": "1C6SRFVT4TN445098",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/6a99ccdf402d.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 1500 Tungsten",
+      "name": "2026 RAM 1500Tungsten 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFKP3TN297341",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/23e8558a6186.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 106170.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Tungsten",
+      "name": "2026 RAM 1500Tungsten 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFKP4TN397285",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/059fd40db71e.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 107484.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 2500 Black Express",
-      "vin": "3C6UR5CL3TG243044",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/389c45e4eafb.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 3500 Big Horn",
+      "name": "2026 RAM 3500Big Horn 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3DL3TG251367",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/6465568c0549.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 94590.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Big Horn",
-      "vin": "3C63R3DL3TG251949",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/598d0297158a.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3EL2TG332102",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/ddd187a56085.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 102920.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3EL3TG346204",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/bf7ebf07c49a.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 113390.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
+      "vin": "3C63R3EL4TG348043",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/ce3d471621e2.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 111695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3EL5TG346205",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/6fd0bc5552e0.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 111390.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3EL8TG346201",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/ab6b28bd98c7.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 105320.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3ELXTG346202",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/d229d30ae8ae.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 106015.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
-      "vin": "3C63R3JL1TG168542",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/9b3b7d51f088.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500Laramie 4x4 Crew Cab 8' Box",
       "vin": "3C63R3JL1TG332114",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/fcad275b9892.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 105110.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 RAM 3500 Laramie",
@@ -511,15 +506,6 @@
       "name": "2026 RAM 3500 Laramie",
       "vin": "3C63R3JL9TG336735",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/a69e02ce432f.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 3500 Laramie",
-      "vin": "3C63R3JLXTG332113",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/a7cf9ab62ffe.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
@@ -544,15 +530,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 RAM 3500 Limited",
-      "vin": "3C63RRRL3TG263272",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/741d81389064.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new"
-    },
-    {
       "name": "2027 RAM 1500 Rebel",
       "vin": "1C6SRFLP6VN595917",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/5ab7c2cddac3.html",
@@ -571,22 +548,81 @@
       "condition": "new"
     },
     {
-      "name": "2027 RAM 1500 Rebel",
-      "vin": "1C6SRFLT8VN594443",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/bec878c95376.html",
+      "name": "2027 RAM 1500Sport 4x4 Crew Cab 5'7 Box",
+      "vin": "1C6SRFVT1VN617493",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/5cec42edcaa2.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 93495.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 TRX SRT",
+      "name": "2027 RAM 1500Sport 4x4 Crew Cab 5'7 Box",
+      "vin": "1C6SRFVT2VN618183",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/fb8b8d3d2b65.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 93495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500Sport 4x4 Crew Cab 5'7 Box",
+      "vin": "1C6SRFVT3VN617494",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/03d83312dec1.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 93495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500Sport 4x4 Crew Cab 5'7 Box",
+      "vin": "1C6SRFVT8VN617491",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/f093bad2c19e.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 92750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500Sport 4x4 Crew Cab 5'7 Box",
+      "vin": "1C6SRFVTXVN617492",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/722440fd3d22.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 93495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500TRX 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFU99VN595233",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/61cd651918aa.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 165304.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 3500Big Horn 4x4 Reg Cab 8' Box",
+      "vin": "3C63R3BL7VG416892",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/57ab5a352901.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 95350.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 RAM 3500 Big Horn",
@@ -652,40 +688,48 @@
       "condition": "new"
     },
     {
-      "name": "2027 RAM 3500 Laramie",
+      "name": "2027 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3ELXVG405655",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/77b2f2ed9efc.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 117850.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Laramie",
+      "name": "2027 RAM 3500Laramie 4x4 Crew Cab 8' Box",
       "vin": "3C63R3JL8VG406258",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/927d52c564b3.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 109520.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Limited",
+      "name": "2027 RAM 3500Limited 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3SL5VG405647",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/4562bee7453d.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 123320.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Longhorn",
+      "name": "2027 RAM 3500Longhorn 4x4 Crew Cab 8' Box",
       "vin": "3C63RRRL7VG405657",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/new/21fe06938df6.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 127655.0,
+      "price_currency": "CAD"
     }
   ]
 }
