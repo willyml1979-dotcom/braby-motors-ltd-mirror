@@ -1,6 +1,6 @@
 {
   "dealership": "Braby Motors Ltd",
-  "generated_at": "2026-10-26T07:02:49",
+  "generated_at": "2026-11-17T06:44:58",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -15,22 +15,81 @@
       "condition": "used"
     },
     {
-      "name": "2017 CHEVROLET CORVETTE Z06 1LZ",
+      "name": "2017 CHEVROLET CORVETTE1LZ Supercharged V8 650HP",
       "vin": "1G1YP2D68H5605481",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/74a2d9ac64ec.html",
       "year": 2017,
       "make": "CHEVROLET",
-      "model": "Corvette",
-      "condition": "used"
+      "model": "CORVETTE1LZ Supercharged V8 650HP",
+      "condition": "used",
+      "price": 89995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2020 RAM 2500 Laramie",
+      "name": "2018 GMC SIERRA 1500SLT All Terrain Leather Sunroof 5.3L",
+      "vin": "3GTU2NEC5JG458383",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/3b45538f233d.html",
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 TOYOTA TACOMATRD Sport V6 Double Cab 6 Foot Box",
+      "vin": "5TFDZ5BN0KX040103",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/681c327fe1c4.html",
+      "year": 2019,
+      "make": "TOYOTA",
+      "model": "Tacoma",
+      "condition": "used",
+      "price": 40995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 RAM 1500Rebel",
+      "vin": "1C6SRFET7LN147662",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/e53a059ce132.html",
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 RAM 2500Laramie Crew Cab Shortbox",
       "vin": "3C6UR5FL1LG263384",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/e6d4da34aceb.html",
       "year": 2020,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "price": 50995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 TOYOTA TACOMATRD SPORT V6 6 Foot Box",
+      "vin": "5TFDZ5BN2LX054215",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/d790ae41c3f1.html",
+      "year": 2020,
+      "make": "TOYOTA",
+      "model": "Tacoma",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 CHEVROLET COLORADOZR2",
+      "vin": "1GCGTEENXM1133517",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/133b43aad48e.html",
+      "year": 2021,
+      "make": "CHEVROLET",
+      "model": "Colorado",
+      "condition": "used",
+      "price": 46995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 JEEP WRANGLER Unlimited Rubicon",
@@ -51,13 +110,15 @@
       "condition": "used"
     },
     {
-      "name": "2022 GENESIS GV80 3.5T Prestige",
-      "vin": "KMUHCESC3NU093057",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/6ff2af400e75.html",
+      "name": "2022 GMC SIERRA 1500Pro 2.7L Crew Cab",
+      "vin": "1GTPUAEK7NZ597024",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/0fa8ce5036d1.html",
       "year": 2022,
-      "make": "GENESIS",
-      "model": "GV80",
-      "condition": "used"
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 RAM 1500 Limited",
@@ -69,112 +130,114 @@
       "condition": "used"
     },
     {
-      "name": "2022 RAM 3500 Big Horn",
-      "vin": "3C63R3DL7NG152831",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/9998f8142c64.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used"
+      "name": "2023 FORD F-150XLT Crew Cab FX4 5.0L",
+      "vin": "1FTFW1E55PFC40199",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/79c5b586618e.html",
+      "year": 2023,
+      "make": "FORD",
+      "model": "F-150",
+      "condition": "used",
+      "price": 45995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 GMC SIERRA 1500 Denali",
+      "name": "2023 GMC SIERRA 1500Denali 5.3L 6.6 Box leather",
       "vin": "3GTUUGED3PG312474",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/8c5f10aecad2.html",
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 49799.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 GMC SIERRA 3500HD Denali",
+      "name": "2023 GMC SIERRA 3500HDDenali Shortbox Duramax Diesel",
       "vin": "1GT49WEY0PF233456",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/4986c5e3a103.html",
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "price": 79887.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 JEEP WRANGLER High Altitude",
+      "name": "2023 JEEP WRANGLERHigh Altitude Skytouch Roof  1 Owner",
       "vin": "1C4HJXEN8PW623726",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/aeb9d25d993b.html",
       "year": 2023,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 38756.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 JEEP WRANGLER Rubicon",
+      "name": "2023 JEEP WRANGLERRubicon Auto V6 Heated Seats",
       "vin": "1C4HJXFG4PW574086",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/c19e9081e914.html",
       "year": 2023,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 46995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 MITSUBISHI OUTLANDER PHEV SEL",
-      "vin": "JA4T5UA97PZ604728",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/fab49f1ab189.html",
-      "year": 2023,
-      "make": "MITSUBISHI",
-      "model": "Outlander PHEV",
-      "condition": "used"
-    },
-    {
-      "name": "2023 RAM 1500 CLASSIC Tradesman",
-      "vin": "1C6RR7FT2PS591087",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/f078eb14f05a.html",
+      "name": "2023 RAM 1500 CLASSICTradesman Quad Cab HEMI",
+      "vin": "1C6RR7FT4PS591088",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/82bc7c7385bd.html",
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "price": 34495.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 1500 CLASSIC Tradesman",
-      "vin": "1C6RR7FT9PS591085",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/bdf86f109d46.html",
+      "name": "2023 RAM 1500 CLASSICTradesman Crew Cab V6",
+      "vin": "3C6RR7KG6PG657771",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/c2d29fde6131.html",
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 DODGE HORNET R/T",
+      "name": "2024 DODGE HORNETR/T PHEV EAWD",
       "vin": "ZACPDFCW5R3A11886",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/bf0506fc4c70.html",
       "year": 2024,
       "make": "DODGE",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "price": 37995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 FORD EXPEDITION Platinum",
+      "name": "2024 FORD EXPEDITIONPlatinum 7 Passenger 3.5 Ecoboost",
       "vin": "1FMJU1M80REA65943",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/6a97928c1cc3.html",
       "year": 2024,
       "make": "FORD",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "price": 68995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC SIERRA 1500 Elevation",
-      "vin": "1GTUUCED6RZ185795",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/b81bbbdb75f7.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used"
-    },
-    {
-      "name": "2024 GMC SIERRA 1500 SLT",
+      "name": "2024 GMC SIERRA 1500SLT Crew Cab Duramax Diesel",
       "vin": "3GTUUDE87RG117580",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/6ccc370fd887.html",
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 55994.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 JEEP GRAND CHEROKEE Laredo",
@@ -186,76 +249,59 @@
       "condition": "used"
     },
     {
-      "name": "2024 JEEP WRANGLER Rubicon X",
-      "vin": "1C4RJXFG2RW341265",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/5f866f55c285.html",
-      "year": 2024,
-      "make": "JEEP",
-      "model": "Wrangler",
-      "condition": "used"
-    },
-    {
-      "name": "2024 RAM 1500 Sport",
+      "name": "2024 RAM 1500Sport 6 Inch lift, Moto Metal Wheels, on 35s",
       "vin": "1C6SRFVTXRN124014",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/0bddf87ea18f.html",
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 59995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 3500 Big Horn",
+      "name": "2024 RAM 3500Big Horn Dually Sport",
       "vin": "3C63RRHL7RG108427",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/1bbc3169ce74.html",
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "price": 64995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 3500 Tradesman",
+      "name": "2024 RAM 3500Tradesman Shortbox Cummins Diesel",
       "vin": "3C63R3CL5RG326368",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/9a12d14b63b5.html",
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "price": 65994.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2025 FORD F-150 LARIAT",
-      "vin": "1FTFW5L57SFA59849",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/18855a483494.html",
-      "year": 2025,
-      "make": "FORD",
-      "model": "F-150",
-      "condition": "used"
-    },
-    {
-      "name": "2025 JEEP WRANGLER Rubicon X",
-      "vin": "1C4RJXFN6SW587837",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/897f03e16cc2.html",
-      "year": 2025,
-      "make": "JEEP",
-      "model": "Wrangler",
-      "condition": "used"
-    },
-    {
-      "name": "2025 RAM 1500 Limited Longhorn",
+      "name": "2025 RAM 1500Limited Longhorn Rambox Pano Roof",
       "vin": "1C6SRFHP8SN569033",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/270e4a668de5.html",
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 68898.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM 1500 Rebel",
+      "name": "2025 RAM 1500Rebel 3.0L Hurricane Heated Seats",
       "vin": "1C6SRFLP6SN571046",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/de57bb87bd75.html",
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 59990.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 RAM 2500 Big Horn",
@@ -267,13 +313,15 @@
       "condition": "used"
     },
     {
-      "name": "2026 JEEP CHEROKEE Laredo",
-      "vin": "3C4PJMB29TT243699",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/357671ab012b.html",
+      "name": "2026 CHRYSLER PACIFICASelect AWD Dealer Loaner",
+      "vin": "2C4RC3BG0TR266431",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/f8719a8a9e72.html",
       "year": 2026,
-      "make": "JEEP",
-      "model": "Cherokee",
-      "condition": "used"
+      "make": "CHRYSLER",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 59995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP CHEROKEE Overland",
@@ -285,22 +333,26 @@
       "condition": "used"
     },
     {
-      "name": "2026 JEEP COMPASS North",
-      "vin": "3C4NJDBN5TT152947",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/e7f37c2258ec.html",
-      "year": 2026,
-      "make": "JEEP",
-      "model": "Compass",
-      "condition": "used"
-    },
-    {
-      "name": "2026 JEEP COMPASS North",
+      "name": "2026 JEEP COMPASSNorth 4x4",
       "vin": "3C4NJDBN5TT261621",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/f946969c4205.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 42085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 JEEP COMPASSNorth 4x4",
+      "vin": "3C4NJDBN6TT156439",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/cd5b68010614.html",
+      "year": 2026,
+      "make": "JEEP",
+      "model": "Compass",
+      "condition": "used",
+      "price": 34895.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP GRAND WAGONEER Limited Altitude",
