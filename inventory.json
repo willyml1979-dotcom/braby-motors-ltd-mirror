@@ -1,19 +1,10 @@
 {
   "dealership": "Braby Motors Ltd",
-  "generated_at": "2026-11-17T06:58:17",
+  "generated_at": "2026-11-17T23:22:04",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2014 GMC SIERRA 3500HD SLE",
-      "vin": "1GD323C82EF124569",
-      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/e2a1e99cb9e6.html",
-      "year": 2014,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "used"
-    },
     {
       "name": "2017 CHEVROLET CORVETTE1LZ Supercharged V8 650HP",
       "vin": "1G1YP2D68H5605481",
@@ -92,22 +83,37 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 JEEP WRANGLER Unlimited Rubicon",
+      "name": "2021 FORD EXPLORERST AWD Leather Local Clean Carfax",
+      "vin": "1FM5K8GC6MGC14112",
+      "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/9ade8721dc3b.html",
+      "year": 2021,
+      "make": "FORD",
+      "model": "Explorer",
+      "condition": "used",
+      "price": 32495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 JEEP WRANGLERUnlimited Rubicon Automatic",
       "vin": "1C4HJXFN1MW584911",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/9efc22d46748.html",
       "year": 2021,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 34994.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2021 LAND ROVER RANGE ROVER VELAR S",
+      "name": "2021 LAND ROVER RANGE ROVER VELARS Leather AWD Panoramic Sunroof",
       "vin": "SALYJ2EX9MA315440",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/6988aa317fad.html",
       "year": 2021,
       "make": "LAND",
-      "model": "ROVER RANGE ROVER VELAR S",
-      "condition": "used"
+      "model": "ROVER RANGE ROVER VELARS Leather AWD Panoramic Sunroof",
+      "condition": "used",
+      "price": 33995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 GMC SIERRA 1500Pro 2.7L Crew Cab",
@@ -121,13 +127,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Limited",
+      "name": "2022 RAM 1500Limited Hemi Rambox Fuel Wheels",
       "vin": "1C6SRFHTXNN167029",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/26f6b6cfdf7f.html",
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 40995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 FORD F-150XLT Crew Cab FX4 5.0L",
@@ -240,13 +248,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 JEEP GRAND CHEROKEE Laredo",
+      "name": "2024 JEEP GRAND CHEROKEELaredo 4x4",
       "vin": "1C4RJHAG0RC225190",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/abf79dc5bf53.html",
       "year": 2024,
       "make": "JEEP",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "price": 43995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 RAM 1500Sport 6 Inch lift, Moto Metal Wheels, on 35s",
@@ -304,13 +314,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM 2500 Big Horn",
+      "name": "2025 RAM 2500Big Horn Shortbox Gas",
       "vin": "3C6UR5DJ7SG540670",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/1d0f2c9b78f7.html",
       "year": 2025,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "price": 55995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 CHRYSLER PACIFICASelect AWD Dealer Loaner",
@@ -324,13 +336,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP CHEROKEE Overland",
+      "name": "2026 JEEP CHEROKEEOverland 4x4",
       "vin": "3C4PJMC20TT269137",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/8361d08ca699.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "price": 60975.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP COMPASSNorth 4x4",
@@ -366,22 +380,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Rebel",
+      "name": "2026 RAM 1500Rebel 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFLP7TN170641",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/0304a3423d6d.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 74995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Big Horn",
+      "name": "2026 RAM 3500Big Horn 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3DL3TG161720",
       "url": "https://willyml1979-dotcom.github.io/braby-motors-ltd-mirror/used/56d1b5b9f9c9.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "price": 78995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 RAM 1500Tungsten 4x4 Crew Cab 5'7 Box",
